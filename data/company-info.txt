@@ -1,0 +1,66 @@
+===================================
+       COMPANY INFORMATION
+===================================
+
+COMPANY NAME: VS Infotech Pvt. Ltd.
+
+ABOUT US:
+VS Infotech is a leading software development company founded in 2018. We specialize in building custom web applications, mobile apps, and cloud-based enterprise solutions. Our team of 50+ skilled developers is committed to delivering innovative technology solutions to businesses of all sizes.
+
+SERVICES:
+1. Custom Web Application Development
+2. Mobile App Development (iOS & Android)
+3. Cloud Infrastructure & DevOps
+4. UI/UX Design
+5. API Development & Integration
+6. E-commerce Solutions
+7. Software Maintenance & Support
+
+TECHNOLOGIES WE USE:
+- Frontend: React, Angular, Vue.js, HTML5, CSS3, Bootstrap
+- Backend: Node.js, NestJS, Python, Java, .NET
+- Mobile: React Native, Flutter, Swift, Kotlin
+- Database: PostgreSQL, MongoDB, MySQL, Redis
+- Cloud: AWS, Google Cloud, Azure
+- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+
+OFFICE LOCATION:
+123, Innovation Tower, Science City Road
+Ahmedabad, Gujarat - 380060
+India
+
+WORKING HOURS:
+Monday to Friday: 9:30 AM - 6:30 PM (IST)
+Saturday: 10:00 AM - 2:00 PM (IST)
+Sunday: Closed
+
+CONTACT INFORMATION:
+Phone: +91 79 1234 5678
+Email: info@technovasolutions.com
+Support Email: support@technovasolutions.com
+Website: www.technovasolutions.com
+
+PRICING:
+- We offer project-based and hourly engagement models.
+- Hourly rates start from $25/hour depending on the technology and complexity.
+- For project-based pricing, please contact our sales team for a custom quote.
+
+CAREERS:
+We are always looking for talented developers, designers, and project managers. Send your resume to careers@technovasolutions.com. Current openings are listed on our website.
+
+FREQUENTLY ASKED QUESTIONS:
+
+Q: Do you offer free consultations?
+A: Yes, we offer a free 30-minute consultation to discuss your project requirements and provide an initial estimate.
+
+Q: What is the typical project timeline?
+A: Project timelines vary based on scope and complexity. A simple web application typically takes 4-8 weeks, while complex enterprise solutions may take 3-6 months.
+
+Q: Do you provide post-launch support?
+A: Yes, we offer flexible maintenance and support packages starting from 3 months after project delivery.
+
+Q: Can you work with our existing development team?
+A: Absolutely! We offer dedicated developer services where our engineers integrate seamlessly with your existing team.
+
+Q: What industries do you serve?
+A: We serve a wide range of industries including Healthcare, Education, Finance, Retail, Real Estate, and Logistics.
